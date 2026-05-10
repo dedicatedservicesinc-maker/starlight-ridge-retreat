@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../StarlightSite/app/contact/app"
+		},
+		{
+			"path": "../../StarlightSite/app/contact/components"
+		}
+	],
+	"settings": {}
+}
